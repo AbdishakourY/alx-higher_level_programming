@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 def add(a, b):
-     add = a+b
+    c = a+b
 
-        a = 1
-        b = 2
+    a = 1
+    b = 2
 
 
 
-        print(f"{} {} {}".format(a + b = add))
+print(f"{} {} {}".format(c = a + b))
