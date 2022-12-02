@@ -5,6 +5,6 @@ def add(a, b):
         a = 1
         b = 2
 
-    return (a + b)
 
-print(f"{} {} {}".format(a + b = add))
+
+        print(f"{} {} {}".format(a + b = add))
